@@ -1,3 +1,3 @@
 # Chess-app
 
-![alt text]()
+![alt text](https://github.com/praveensaharan/Chess-app/blob/main/chess.jpeg)
